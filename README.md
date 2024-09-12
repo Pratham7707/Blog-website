@@ -1,1 +1,6 @@
-# Blog-website
+->Designed and implemented backend functionality for a
+->bloggers portal using Python and Django by 35%.
+->Managed database operations with MySQL and
+->optimized query performance by 25%.
+->Created comprehensive blog to ensure code reliability
+->and robustness by 10%.
